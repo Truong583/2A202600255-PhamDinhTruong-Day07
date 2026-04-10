@@ -260,4 +260,4 @@ Chạy 5 benchmark queries của nhóm trên implementation cá nhân của bạ
 | Results | Cá nhân | 9/ 10 |
 | Core implementation (tests) | Cá nhân |28 / 30 |
 | Demo | Nhóm | 4/ 5 |
-| **Tổng** | | **/ 100** |
+| **Tổng** | | **/100 ** |
